@@ -1,0 +1,20 @@
+{
+  "project": "SIR Restaurant",
+  "title": "SIR Restaurant POS & Kitchen Hub",
+  "title_ar": "منظومة مطاعم سير ونقاط البيع وإدارة المطابخ",
+  "version": "1.0.0",
+  "updated_at": "2026-10-26T08:20:11.892529+00:00",
+  "zip_package": {
+    "file_name": "SIR_Restaurant_Suite.zip",
+    "size_bytes": 410924450,
+    "size_mb": 391.89,
+    "sha256": "c7f1feafe4decc99e9d2f29387b33aecf78deb17ca463c69a4ed84e3616f2f31",
+    "relative_url": "/downloads/SIR_Restaurant_Suite.zip"
+  },
+  "main_executable": {
+    "file_name": "SIR Restaurant-Setup-1.0.0.exe",
+    "size_bytes": 410833711,
+    "sha256": "79d231a5672558083c5c2bc09fe02b308ea17e2582c9745975ddd00741cd219d",
+    "relative_url": "/downloads/SIR Restaurant-Setup-1.0.0.exe"
+  }
+}
